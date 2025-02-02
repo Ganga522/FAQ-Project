@@ -156,7 +156,7 @@ GET http://127.0.0.1:8000/api/faqs/?lang=bn
 ---
 
 ## **Contributors**
-- **K. Gangadhar** ([GitHub Profile](https://github.com/Ganga522))
+- **Kataru Gangadhar** ([GitHub Profile](https://github.com/Ganga522))
 
 ## **License**
 This project is licensed under the MIT License.
